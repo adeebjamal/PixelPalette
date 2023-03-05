@@ -36,4 +36,4 @@ PixelPalette is licensed under the <a href = "LICENSE">MIT</a> License.
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Please make sure to update tests as appropriate.
 
 ## Credits
-PixelPalette was created by Adeeb Jamal.
+PixelPalette was created by <a href = "https://github.com/adeebjamal/PixelPalette.git">Adeeb Jamal</a>.
