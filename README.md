@@ -3,6 +3,7 @@ PixelPalette is a Visual Studio Code extension that extracts the hex codes of co
 
 ## Features
 * Extract hex codes of colors present in an image.
+* Show colors along with Hex codes for easy copy-pasting.
 * Supports common image formats such as JPEG, PNG, and GIF.
 * Simple and easy to use.
 
@@ -10,7 +11,7 @@ PixelPalette is a Visual Studio Code extension that extracts the hex codes of co
 * To use PixelPalette, simply Right Click on any image and copy its path. Then open VS Code and press Ctrl + Shift + P.
 * A command prompt will open where you will have to write "Suggest Colours" and hit Enter.
 * A dialogue box will open where you will paste the path of image.
-* Finally, you will see hex codes in the bottom - right of your screen.
+* Finally, you will see hex codes along with colors in the output panel.
 
 ## Requirements
 PixelPalette requires Node.js and the node-vibrant package to be installed on your system.
